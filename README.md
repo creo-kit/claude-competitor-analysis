@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/cover-image.svg" alt="claude-competitor-analysis" width="100%" /></p>
+
 # claude-competitor-analysis
 
 AI-powered competitor UX analysis skill for Claude Code -- analyze competitor websites for UX patterns, strengths, weaknesses, and opportunities.
