@@ -1,0 +1,23 @@
+{
+  "name": "claude-competitor-analysis",
+  "version": "1.0.0",
+  "description": "AI-powered competitor UX analysis skill for Claude Code",
+  "repository": "https://github.com/creo-kit/claude-competitor-analysis",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "creo-ux-competitor",
+      "path": "skills/creo-ux-competitor/SKILL.md",
+      "description": "Analyze competitor websites for UX patterns, strengths, weaknesses, and opportunities"
+    }
+  ],
+  "agents": [
+    {
+      "name": "creo-ux-competitor",
+      "path": "agents/creo-ux-competitor.md",
+      "description": "Competitor UX analyst subagent"
+    }
+  ],
+  "install": "bash install.sh",
+  "uninstall": "bash uninstall.sh"
+}
